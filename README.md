@@ -1,13 +1,10 @@
 
-![CB371771-D06B-4169-9DF1-0393C15AFEDC_4_5005_c](https://user-images.githubusercontent.com/82069747/122333349-f7782680-cf72-11eb-919e-780b81f96e37.jpeg)
-
-
-
-# OuterPark(뮤지컬 예약)
+# MiniPark(기차 예약)
 
 
 
 ## 0. 서비스 시나리오
+ 기존 OuterPark(뮤지컬예약) 이 후 사이드 프로젝트로 기차예약 시스템을 만들기로 한다.
 
 
 ### 기능적 요구사항
