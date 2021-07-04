@@ -1,7 +1,20 @@
 
 # MiniPark(기차 예약)
 
+## 체크포인트
 
+1. Saga 
+1. CQRS 
+1. Correlation 
+1. Req/Resp 
+1. Gateway 
+1. Deploy/ Pipeline 
+1. Circuit Breaker 
+1. Autoscale (HPA) 
+1. Zero-downtime deploy (Readiness Probe)
+1. Config Map/ Persistence Volume
+1. Polyglot 
+1. Self-healing (Liveness Probe)
 
 ## 0. 서비스 시나리오
  기존 OuterPark(뮤지컬예약) 이 후 사이드 프로젝트로 기차예약 시스템을 만들기로 한다.
